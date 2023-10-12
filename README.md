@@ -4,4 +4,4 @@ Tableau Public Dashboard Link :https://public.tableau.com/views/lokshaba2019/Das
 
 Tableau Public Story Link :https://public.tableau.com/views/lokshaba2019/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-Video Demonstration Link :https://drive.google.com/file/d/1jy00Xv69xvpVeo7iePZgVY229B75zA-Q/view?usp=sharing
+Video Demonstration Link :https:https://drive.google.com/file/d/1jy00Xv69xvpVeo7iePZgVY229B75zA-Q/view?usp=drive_link
